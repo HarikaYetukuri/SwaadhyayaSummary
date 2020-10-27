@@ -1,0 +1,21 @@
+.container-fluid{
+padding: 0px;
+}
+.navbar.navbar-light{
+  background-color: #f7a934;
+}
+
+.dropdown-menu{
+    background-color: #f7a934;
+    border: none;
+  }
+  .introVisibility{
+      visibility: hidden;
+  }
+  .col-lg-10{
+      max-width: 100%;
+  }
+  body{
+    overflow-x:hidden;
+}
+  
